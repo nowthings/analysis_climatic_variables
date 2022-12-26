@@ -10,9 +10,9 @@ You can contribute making the application adding new uses cases or scripts withi
 ## Coding Guidance
 The application is based on a basic folder structure as follows:
 
----Root
-    ---#_use_case
-        ---#_#_script
+---Root  
+------#_use_case  
+---------#_#_script  
 
 
 ## Trusted Commiters
