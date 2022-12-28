@@ -1,5 +1,5 @@
 # Analysis of climatic variables
-This is a repository to include scripts for the analysis of climatic variables in general, the technologies included are R, Python...
+This is a repository to include scripts for the analysis of climatic variables in general, the technologies included are R, Python or Jupyter Notebook.
 
 ## Uses Cases
 
