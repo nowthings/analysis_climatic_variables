@@ -4,21 +4,19 @@
 
 The process consists of several steps:
 
-0. Install dependencies Python
+0. Install anaconda3
 1. Importing a dataset
 2. Understanding the big picture
 3. Preparation
 4. Understanding of variables
 5. Study of the relationships between variables
 
-### 0. Install dependencies Python
+### 0. Install anaconda3
 
-python -m pip install numpy 
-python -m pip install seaborn
-python -m pip install pandas
-python -m pip install scikit-learn
-python -m pip install pandas
-python -m pip install matplotlib
-python -m pip install jupyter
+Use the [official site](https://www.anaconda.com/products/distribution) for the installation.
 
-python 1_2_1_EDA_frequency_variables.py
+### 1. Importing a dataset
+
+Import files of the Google Drive in local computer, this is for the load of the dataset with the `.data` files.
+
+The file structure is the one specified in the guide
