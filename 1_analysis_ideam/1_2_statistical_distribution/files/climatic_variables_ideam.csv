@@ -1,0 +1,18 @@
+VARIABLE IDEAM,DESCRIPTION,TIPO VAR,FILE,PREVIOUS_DATA_COVERAGE
+BSHG_TT_D,Brillo solar relativo diario,DER-M,MetereologiaNacionalDiaria,yes
+DVAG_CON,Dirección del viento de las 24 horas,BASIC,MetereologiaNacionalDiaria,new
+EVTE_CON,Evaporación total diaria,BASIC,MetereologiaNacionalDiaria,yes
+FA_CON,"Fenómeno Atmosférico de las 700, 1300 y 1800",BASIC,MetereologiaNacionalDiaria,new
+HR_CAL_MEDIA_D,Húmeda relativa  media diaria,DER-M,MetereologiaNacionalDiaria,yes
+NB_CON,"Nubosidad de las 700, 1300 y 1800",BASIC,MetereologiaNacionalDiaria,new
+RCAM_CON,Recorrido del viento diario,BASIC,MetereologiaNacionalDiaria,new
+TPR_CAL,Temperatura del punto de roció calculada horaria,DER-M,MetereologiaNacionalDiaria,new
+TV_CAL,Tensión de vapor calculada horaria,DER-M,MetereologiaNacionalDiaria,new
+VVAG_CON,Velocidad del viento de las 24 horas,BASIC,MetereologiaNacionalDiaria,yes
+PTPM_CON_INTER,Día pluviométrico / Precipitación diaria,BASIC,PrecipitacionNacionalDiaria,yes
+NV_MEDIA_D,Nivel medio diario,DER-H,HidrologiaNacionalDiaria,new
+NV_MN_D,Nivel mínimo diario,DER-H,HidrologiaNacionalDiaria,new
+NV_MX_D,Nivel máximo diario,DER-H,HidrologiaNacionalDiaria,new
+Q_MEDIA_D,Caudal medio diario,DER-H,HidrologiaNacionalDiaria,new
+Q_MN_D,Caudal mínimo diario,DER-H,HidrologiaNacionalDiaria,new
+Q_MX_D,Caudal máximo diario,DER-H,HidrologiaNacionalDiaria,new
